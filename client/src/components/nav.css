@@ -1,0 +1,14 @@
+/* ul {
+    color: white !important;
+} */
+
+a {
+    color: white !important;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.logo {
+    padding: auto;
+    width: 170px;
+}
